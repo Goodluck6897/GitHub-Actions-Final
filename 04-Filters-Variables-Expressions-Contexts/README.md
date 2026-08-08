@@ -1,5 +1,7 @@
 # GitHub Actions Workflow Logic Explained | Filters, Contexts, Variables & Expressions
-
+build context
+#docker build -t <docker name> .
+here . is the context so what what ever files in the directory are required to build the image
 ## Video reference for this lecture is the following:
 
 [![Watch the video](https://img.youtube.com/vi/KIH79Y3xJ8c/maxresdefault.jpg)](https://www.youtube.com/watch?v=KIH79Y3xJ8c&ab_channel=CloudWithVarJosh)
