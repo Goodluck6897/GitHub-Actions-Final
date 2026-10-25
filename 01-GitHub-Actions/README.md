@@ -556,6 +556,8 @@ A repository can contain **multiple workflows** where each workflow is responsib
 
 **Examples:**
 
+Linting in GitHub is the process of using automated tools to scan your source code for programmatic errors, bugs, stylistic inconsistencies, and formatting issues without actually running the code. Think of it like a digital lint roller or a grammar checker for your codebase—it cleans up the "ugly bits" like unused variables, trailing whitespace, or missing semicolons before your code is reviewed by a human
+
 * `ci.yml` handles application build, linting, and testing workflows.
 * `deployment.yml` manages staging or production deployment automation.
 * `release.yml` handles release packaging and publishing operations.
